@@ -13,5 +13,5 @@ A desktop game built with Java Swing where players must click on Monty Moles whi
 * **Architecture**: Event-driven programming using `ActionListener` and `Timer`.
 * **Asset Management**: Images are scaled dynamically using `Image.SCALE_SMOOTH` for high-quality visuals.
 
-## 📸 Preview
-*will be added later...*
+## 📸 Preview (How it looks)
+![Whac-A-Mole Gameplay](./screenshots/preview.png)
